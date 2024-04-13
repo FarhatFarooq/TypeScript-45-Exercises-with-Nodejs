@@ -3,4 +3,5 @@
 var errorArry = ["A", "B", "C", "D"];
 // Producing Error ! by Accessing invalid index of array
 // console.log(errorArry[10]);
+// Error Removed
 console.log(errorArry[1]);

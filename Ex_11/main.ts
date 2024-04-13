@@ -5,4 +5,14 @@ let friendsName = ["Farhat","Farooq", "Shabana", "M.Omer"];
 
 // console.log(friendsName);
 
+// firsts Method
 friendsName.forEach(friendname => console.log(friendname));
+
+
+// Second Method
+console.log(friendsName[0]);
+console.log(friendsName[1]);
+console.log(friendsName[2]);
+console.log(friendsName[3]);
+        
+
